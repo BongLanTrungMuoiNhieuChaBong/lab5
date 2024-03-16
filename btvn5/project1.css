@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+img{
+    max-width: 100%;
+    vertical-align: middle;
+    height: auto;
+}
+/*comon*/
+.lexend{
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.lexend--100{
+    font-weight: 100;
+}
+.lexend--200{
+    font-weight: 200;
+}
+.lexend--300{
+    font-weight: 300;
+}
+.lexend--400{
+    font-weight: 400;
+}
+.lexend--500{
+    font-weight: 500;
+}
+.lexend--600{
+    font-weight: 600;
+}
+.lexend--700{
+   font-weight: 700;
+}
+.lexend--800{
+    font-weight: 800;
+}
+.lexend--900{
+    font-weight: 900;
+}
+.lora{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+.lora--100{
+    font-weight: 100;
+}
+.lora--200{
+    font-weight: 200;
+}
+.lora--300{
+    font-weight: 300;
+}
+.lora--400{
+    font-weight: 400;
+}
+.lora--500{
+    font-weight: 500;
+}
+.lora--600{
+    font-weight: 600;
+}
+.lora--700{
+    font-size: 700;
+}
+.flex{
+    display: flex;
+}
+.flex-column{
+    flex-direction: column;
+}
+.align-items-center{
+    align-items: center;
+}
+.justify-content-cemter{
+    justify-content: center;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+/*header*/
+.logo{
+    width: 140px;
+}
+.nav-link{
+    font-size: 18px;
+    color: aliceblue;
+    text-decoration: none;
+}
